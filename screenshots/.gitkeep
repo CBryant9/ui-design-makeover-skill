@@ -1,0 +1,19 @@
+# Screenshots folder
+
+Audit and post-redesign screenshots are saved here, organised by date:
+
+```
+screenshots/
+└── YYYY-MM-DD-<app-name>/
+    ├── dashboard-1440px.png
+    ├── dashboard-768px.png
+    ├── dashboard-375px.png
+    ├── ...other pages at each viewport...
+    ├── refs/                     # Reference analysis from Phase 2
+    │   ├── linear-1440px.png
+    │   └── read-cv-1440px.png
+    └── after/                    # Final screenshots after redesign
+        └── ...
+```
+
+This folder is kept in git as a record of audits. If screenshots get too large, consider adding this path to `.gitignore`.

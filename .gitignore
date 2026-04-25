@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Audit artefacts — session-specific captures, don't ship
+screenshots/*/
+!screenshots/.gitkeep
+
+# Environment files (skill itself doesn't need any)
+.env
+.env.*
+
+# Backups / temp
+*.bak
+*.tmp
