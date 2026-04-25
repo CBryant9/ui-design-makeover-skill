@@ -22,11 +22,7 @@ Reads your app at the code level and (if Playwright is connected) opens it in a 
 
 Send 2–5 apps, sites, magazines, or photos you love. The skill extracts design DNA from each — palette warmth, typographic personality, spacing rhythm, motion language — and proposes directions that fit *your* taste, not the model's defaults.
 
-### Three complete directions
-
-Each direction comes as a full bundle: palette tokens with WCAG-verified contrast, font pairings with foundry links, motion preset, layout moves, what changes vs what stays. You pick one, mix two, or steer somewhere new. No "pick a font here, pick a palette there" — every choice lives inside a coherent direction.
-
-### Surface-aware execution
+### Design Type execution
 
 The skill knows the difference between a dashboard, a marketing page, an editorial reading view, and a mobile app. It loads the right toolkit for each. A landing page gets cinematic-hero discipline and scroll-storytelling cues. A dashboard gets restraint, density, and tabular figures. An article gets reading rhythm and a wide editorial canvas. A mobile app gets safe-area awareness and tap-target discipline.
 
@@ -37,18 +33,6 @@ After implementing, the skill reviews its own work through a sequential critique
 ### A permanent design guide
 
 Outputs a comprehensive markdown spec — fonts, palette tokens, type scale, component patterns, motion rules, anti-slop bans, surface-routing notes. Detailed enough that any future Claude session inherits the locked direction automatically. No drift, no re-litigating decisions, no "but it looked different last time."
-
----
-
-## What it explicitly refuses to do
-
-- Use AI-default fonts (Inter, Roboto, Arial, system-ui) as a primary type choice
-- Reach for purple gradients, default Tailwind grays for muted text, or generic emerald/amber status pills
-- Float rounded cards on drop shadows when hairline borders would do the job
-- Sneak in glassmorphism without a reason
-- Build layout-shifting press states, emoji structural icons, or "SECTION 01" meta-labels
-- Centre a hero section on a tool page
-- Ship without verifying
 
 ---
 
