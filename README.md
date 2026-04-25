@@ -41,14 +41,14 @@ Outputs a comprehensive markdown spec — fonts, palette tokens, type scale, com
 Per-project (recommended for tailored direction):
 
 ```bash
-git clone https://github.com/CBryant9/design-makeover \
+git clone https://github.com/CBryant9/ui-design-makeover-skill \
   .claude/skills/design-makeover
 ```
 
 Globally (works across every Claude Code project):
 
 ```bash
-git clone https://github.com/CBryant9/design-makeover \
+git clone https://github.com/CBryant9/ui-design-makeover-skill \
   ~/.claude/skills/design-makeover
 ```
 
